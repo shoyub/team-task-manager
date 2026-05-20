@@ -9,11 +9,11 @@ Users can create projects, assign tasks, track progress, and manage team collabo
 
 ## Frontend (Vercel)
 
-https://team-task-manager-pi-ten.vercel.app/
+https://team-task-manager-client-olive.vercel.app
 
 ## Backend (Render)
 
-https://team-task-manager-backend-b5ly.onrender.com
+https://team-task-manager-server-azgz.onrender.com
 
 ---
 
@@ -21,10 +21,10 @@ https://team-task-manager-backend-b5ly.onrender.com
 
 ## 🔐 Authentication
 
-* User Signup/Login
-* JWT Authentication
-* Protected Routes
-* Secure Password Hashing
+- User Signup/Login
+- JWT Authentication
+- Protected Routes
+- Secure Password Hashing
 
 ---
 
@@ -32,60 +32,60 @@ https://team-task-manager-backend-b5ly.onrender.com
 
 ## 👨‍💼 Admin
 
-* Create/Edit/Delete Projects
-* Add Members to Projects
-* Create/Edit/Delete Tasks
-* Manage all tasks
-* View dashboard analytics
+- Create/Edit/Delete Projects
+- Add Members to Projects
+- Create/Edit/Delete Tasks
+- Manage all tasks
+- View dashboard analytics
 
 ## 👨‍💻 Member
 
-* View assigned tasks only
-* Update task status
-* Track project progress
+- View assigned tasks only
+- Update task status
+- Track project progress
 
 ---
 
 # 📋 Project Management
 
-* Create Projects
-* Edit/Delete Projects
-* Add Team Members
-* View Project Members
+- Create Projects
+- Edit/Delete Projects
+- Add Team Members
+- View Project Members
 
 ---
 
 # ✅ Task Management
 
-* Create Tasks
-* Assign Tasks to Members
-* Edit/Delete Tasks
-* Update Task Status
-* Filter Tasks by Status
-* Overdue Task Detection
+- Create Tasks
+- Assign Tasks to Members
+- Edit/Delete Tasks
+- Update Task Status
+- Filter Tasks by Status
+- Overdue Task Detection
 
 ---
 
 # 📊 Dashboard Analytics
 
-* Total Tasks
-* Completed Tasks
-* Pending Tasks
-* In Progress Tasks
-* Overdue Tasks
+- Total Tasks
+- Completed Tasks
+- Pending Tasks
+- In Progress Tasks
+- Overdue Tasks
 
 ---
 
 # 🎨 Frontend Features
 
-* Responsive UI
-* Mobile-Friendly Navbar
-* Toast Notifications
-* Loading States
-* Modern Tailwind CSS Design
-* Protected Routing
-* Task Status Badges
-* Empty State UI
+- Responsive UI
+- Mobile-Friendly Navbar
+- Toast Notifications
+- Loading States
+- Modern Tailwind CSS Design
+- Protected Routing
+- Task Status Badges
+- Empty State UI
 
 ---
 
@@ -93,26 +93,26 @@ https://team-task-manager-backend-b5ly.onrender.com
 
 ## Frontend
 
-* React.js
-* Vite
-* Tailwind CSS
-* Axios
-* React Router DOM
-* React Toastify
+- React.js
+- Vite
+- Tailwind CSS
+- Axios
+- React Router DOM
+- React Toastify
 
 ## Backend
 
-* Node.js
-* Express.js
-* MongoDB Atlas
-* Mongoose
-* JWT Authentication
-* bcryptjs
+- Node.js
+- Express.js
+- MongoDB Atlas
+- Mongoose
+- JWT Authentication
+- bcryptjs
 
 ## Deployment
 
-* Frontend → Vercel
-* Backend → Render
+- Frontend → Vercel
+- Backend → Render
 
 ---
 
@@ -121,20 +121,20 @@ https://team-task-manager-backend-b5ly.onrender.com
 team-task-manager/
 │
 ├── client/
-│   ├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── services/
-│   ├── context/
-│   └── App.jsx
+│ ├── src/
+│ ├── components/
+│ ├── pages/
+│ ├── services/
+│ ├── context/
+│ └── App.jsx
 │
 ├── server/
-│   ├── controllers/
-│   ├── middleware/
-│   ├── models/
-│   ├── routes/
-│   ├── config/
-│   └── server.js
+│ ├── controllers/
+│ ├── middleware/
+│ ├── models/
+│ ├── routes/
+│ ├── config/
+│ └── server.js
 │
 └── README.md
 
@@ -145,7 +145,7 @@ team-task-manager/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/krishnasairayavaram/team-task-manager.git
+git clone https://github.com/shoyub/team-task-manager
 ```
 
 ---
@@ -236,13 +236,13 @@ npm run dev
 
 | Feature             | Admin | Member |
 | ------------------- | ----- | ------ |
-| Create Project      | ✅     | ❌      |
-| Edit/Delete Project | ✅     | ❌      |
-| Add Members         | ✅     | ❌      |
-| Create Task         | ✅     | ❌      |
-| Edit/Delete Task    | ✅     | ❌      |
-| Update Task Status  | ✅     | ✅      |
-| View Assigned Tasks | ✅     | ✅      |
+| Create Project      | ✅    | ❌     |
+| Edit/Delete Project | ✅    | ❌     |
+| Add Members         | ✅    | ❌     |
+| Create Task         | ✅    | ❌     |
+| Edit/Delete Task    | ✅    | ❌     |
+| Update Task Status  | ✅    | ✅     |
+| View Assigned Tasks | ✅    | ✅     |
 
 ---
 
@@ -250,21 +250,21 @@ npm run dev
 
 The application is fully responsive and works across:
 
-* Desktop
-* Tablet
-* Mobile Devices
+- Desktop
+- Tablet
+- Mobile Devices
 
 ---
 
 # 🌟 Future Improvements
 
-* Real-time notifications
-* Drag & Drop Kanban Board
-* Team Chat System
-* File Uploads
-* Dark Mode
-* Activity Logs
-* Email Notifications
+- Real-time notifications
+- Drag & Drop Kanban Board
+- Team Chat System
+- File Uploads
+- Dark Mode
+- Activity Logs
+- Email Notifications
 
 ---
 
@@ -273,7 +273,7 @@ The application is fully responsive and works across:
 ## Krishna Sai Rayavaram
 
 GitHub:
-https://github.com/krishnasairayavaram
+https://github.com/shoyub
 
 ---
 
